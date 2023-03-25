@@ -1,0 +1,12 @@
+{
+  "name": "atividade2pwii",
+  "version": "1.0.0",
+  "description": "Atividade 2 da Aula 04 de Programacao Web II",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Mateus Vinicius Soares da Silva",
+  "license": "ISC"
+}
